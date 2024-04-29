@@ -8,9 +8,10 @@ Prepare Code to Cloud environment by following the steps below, or check [Code t
 
 1. Install VSCode-Insider.
 2. Install extension Github Copilot, Github Copilot Chat and login to Copilot.
-3. Clone the Code to Cloud project.
+3. Clone the Code to Cloud project and checkout to stable branch.
    ```cmd
    git clone https://github.com/Azure/codeToCloud.git
+   git checkout stable
    ```
 4. Open the project with VSCode-Insider
    ```cmd
