@@ -51,7 +51,7 @@ azd up
 git clone https://github.com/houk-ms/sample-python
 ```
 
-2. Init the repo with CodeToCloud.
+2. Open the project in debug VSCode Insider window, init the repo with CodeToCloud.
 
    * `@codetocloud /recommend`: run this command in Github Copilot to analyze codes and get recommended azure services
    * `@codetocloud /generate`: run this command to generate bicep files and make the repo azd compatible
